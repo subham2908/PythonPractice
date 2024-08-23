@@ -10,3 +10,6 @@ def trying(n):
 
 trying(7)
 
+exit
+
+
